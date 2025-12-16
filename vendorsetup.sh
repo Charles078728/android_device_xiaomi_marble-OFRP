@@ -17,7 +17,7 @@
 #
 # 	Please maintain this if you use this script or any part of it
 #
-FDEVICE="marble"
+FDEVICE="BF7-GL"
 #set -o xtrace
 
 fox_get_target_device() {
